@@ -1,0 +1,3971 @@
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documentos:               Todos                    
+        Clientes:                 Todos                    
+        Desde producto:           206AAA                  Hasta producto:         206RC15P-M156
+        Vendedores:               Todos                    
+
+        Fecha inicial de elaboración:           01/01/2021                            Fecha final de elaboración:         31/01/2021
+
+                                                                                        Moneda de expresión:          Pesos
+                                                                                        Tipo de cambio:       1.000000
+
+        Documento:.   Pedido - Directo                         31192                  F. de elab. : 02/01/2021        Moneda:     Pesos
+        Cliente:    NC031                                                             F. de venc. : 02/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MARIO NOH                                                         Vendedor:         1
+
+        Su pedido:                                                                    Comisión:                   0.00
+        Observaciones:
+
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          120.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.700000      $
+          Observaciones:    3 SACOS L-5941-20
+
+                                                                                                Total:                        1,044.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            1
+
+
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31194                  F. de elab. : 02/01/2021        Moneda:     Pesos
+        Cliente:    CC188                                                             F. de venc. : 02/01/2021        Tipo de cambio:             1.000000
+        Nombre:     BARBARA CORTEZ DE CRUZ                                            Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          800.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    20 SACOS L-6587-20
+                                                                                                Total:                        6,952.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            2
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31218                  F. de elab. : 04/01/2021        Moneda:     Pesos
+        Cliente:    MC031                                                             F. de venc. : 04/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MANUEL MEDRANO                                                    Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          360.0000  MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    8.280000      $
+          Observaciones:    9 SACOS L-6685-21
+                                                                                                Total:                        2,980.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            3
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31220                  F. de elab. : 04/01/2021        Moneda:     Pesos
+        Cliente:    DC044                                                             F. de venc. : 04/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JUAN GABRIEL DZUL BALAM                                           Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.440000      $
+          Observaciones:    2 SACOS
+          600.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    15 SACOS
+                                                                                                Total:                        5,889.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            4
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31231                  F. de elab. : 05/01/2021        Moneda:     Pesos
+        Cliente:    PP105                                                             F. de venc. : 05/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JOSE GILMER PECH CASTILLO                                         Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          240.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    6 SACOS L-6587-20
+                                                                                                Total:                        2,085.60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            5
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31237                  F. de elab. : 05/01/2021        Moneda:     Pesos
+        Cliente:    SP104                                                             F. de venc. : 05/01/2021        Tipo de cambio:             1.000000
+        Nombre:     PEDRO ALFONSO CHIM SANSORES                                       Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          200.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.880000      $
+          Observaciones:    5 SACOS
+                                                                                                Total:                        1,776.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            6
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31241                  F. de elab. : 05/01/2021        Moneda:     Pesos
+        Cliente:    AP154                                                             F. de venc. : 05/01/2021        Tipo de cambio:             1.000000
+        Nombre:     ALIMENTOS BALANCEADOS  LA                                         Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          800.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    20 SACOS L-6677-21
+                                                                                                Total:                        6,952.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            7
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31269                  F. de elab. : 06/01/2021        Moneda:     Pesos
+        Cliente:    MC083                                                             F. de venc. : 06/01/2021        Tipo de cambio:             1.000000
+        Nombre:     REINALDO ERIBERTO MARTIN CAUICH                                   Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          600.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.440000      $
+          Observaciones:    15 SACOS
+                                                                                                Total:                        5,064.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            8
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31288                  F. de elab. : 08/01/2021        Moneda:     Pesos
+        Cliente:    CC188                                                             F. de venc. : 08/01/2021        Tipo de cambio:             1.000000
+        Nombre:     BARBARA CORTEZ DE CRUZ                                            Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          400.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    10 SACOS
+                                                                                                Total:                        3,476.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            9
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31290                  F. de elab. : 08/01/2021        Moneda:     Pesos
+        Cliente:    CC144                                                             F. de venc. : 08/01/2021        Tipo de cambio:             1.000000
+        Nombre:     FRANCISCO CABALLERO                                               Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          2,560.00  MYN1      206CAB10                      0.00      0.00      0.00        0.00                                    0.00    9.600000      $
+          Observaciones:    64 SACOS L-6738-21
+                                                                                                Total:                      24,576.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            10
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31297                  F. de elab. : 09/01/2021        Moneda:     Pesos
+        Cliente:    EC057                                                             F. de venc. : 09/01/2021        Tipo de cambio:             1.000000
+        Nombre:     EMANUEL VALENCIA PISTE                                            Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+            40.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.880000      $
+          Observaciones:    1 SACO
+                                                                                                Total:                          355.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            11
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31298                  F. de elab. : 09/01/2021        Moneda:     Pesos
+        Cliente:    NC031                                                             F. de venc. : 09/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MARIO NOH                                                         Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          120.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.700000      $
+          Observaciones:    3 SACOS
+                                                                                                Total:                        1,044.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            12
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31301                  F. de elab. : 09/01/2021        Moneda:     Pesos
+        Cliente:    CC188                                                             F. de venc. : 09/01/2021        Tipo de cambio:             1.000000
+        Nombre:     BARBARA CORTEZ DE CRUZ                                            Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          1,200.00  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    30 SACOS L-6677-21
+                                                                                                Total:                      10,428.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            13
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31319                  F. de elab. : 11/01/2021        Moneda:     Pesos
+        Cliente:    IC034                                                             F. de venc. : 11/01/2021        Tipo de cambio:             1.000000
+        Nombre:     CASILDO ITZA                                                      Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          400.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.440000      $
+          Observaciones:    10 SACOS
+                                                                                                Total:                        3,376.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            14
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31321                  F. de elab. : 11/01/2021        Moneda:     Pesos
+        Cliente:    MC031                                                             F. de venc. : 11/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MANUEL MEDRANO                                                    Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          360.0000  MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    8.280000      $
+          Observaciones:    9 SACOS L-6809-21
+                                                                                                Total:                        2,980.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            15
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31327                  F. de elab. : 11/01/2021        Moneda:     Pesos
+        Cliente:    MC083                                                             F. de venc. : 11/01/2021        Tipo de cambio:             1.000000
+        Nombre:     REINALDO ERIBERTO MARTIN CAUICH                                   Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          600.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.440000      $
+          Observaciones:    15 SACOS
+                                                                                                Total:                        5,064.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            16
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31337                  F. de elab. : 12/01/2021        Moneda:     Pesos
+        Cliente:    PP105                                                             F. de venc. : 12/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JOSE GILMER PECH CASTILLO                                         Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          160.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    4 SACOS
+                                                                                                Total:                        1,390.40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            17
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31338                  F. de elab. : 12/01/2021        Moneda:     Pesos
+        Cliente:    SP072                                                             F. de venc. : 12/01/2021        Tipo de cambio:             1.000000
+        Nombre:     NAYELI SANTAMARIA                                                 Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          720.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    18 SACOS
+                                                                                                Total:                        6,256.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            18
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31340                  F. de elab. : 12/01/2021        Moneda:     Pesos
+        Cliente:    PP123                                                             F. de venc. : 12/01/2021        Tipo de cambio:             1.000000
+        Nombre:     SHARON PEREZ EK                                                   Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          280.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    7 SACOS L-6840-21
+                                                                                                Total:                        2,433.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            19
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31347                  F. de elab. : 12/01/2021        Moneda:     Pesos
+        Cliente:    DC038                                                             F. de venc. : 12/01/2021        Tipo de cambio:             1.000000
+        Nombre:     EVERTH DZIB CHAN                                                  Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          480.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    12 SACOS L-6677-21
+          720.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    18 SACOS L-6840-21
+                                                                                                Total:                      10,428.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            20
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31389                  F. de elab. : 14/01/2021        Moneda:     Pesos
+        Cliente:    VC032                                                             F. de venc. : 14/01/2021        Tipo de cambio:             1.000000
+        Nombre:     SILVIA VALENCIA                                                   Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          3,000.00  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+          Observaciones:    75 SACOS
+                                                                                                Total:                      26,880.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            21
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31410                  F. de elab. : 16/01/2021        Moneda:     Pesos
+        Cliente:    CC188                                                             F. de venc. : 16/01/2021        Tipo de cambio:             1.000000
+        Nombre:     BARBARA CORTEZ DE CRUZ                                            Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          600.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    15 SACOS
+                                                                                                Total:                        5,214.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            22
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31412                  F. de elab. : 16/01/2021        Moneda:     Pesos
+        Cliente:    NC031                                                             F. de venc. : 16/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MARIO NOH                                                         Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          120.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.810000      $
+          Observaciones:    3 SACOS
+                                                                                                Total:                        1,057.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            23
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31423                  F. de elab. : 18/01/2021        Moneda:     Pesos
+        Cliente:    MC031                                                             F. de venc. : 18/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MANUEL MEDRANO                                                    Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          320.0000  MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    8.390000      $
+          Observaciones:    8 SACOS
+                                                                                                Total:                        2,684.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            24
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31424                  F. de elab. : 18/01/2021        Moneda:     Pesos
+        Cliente:    IC034                                                             F. de venc. : 18/01/2021        Tipo de cambio:             1.000000
+        Nombre:     CASILDO ITZA                                                      Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          400.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.550000      $
+          Observaciones:    10 SACOS
+                                                                                                Total:                        3,420.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            25
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31438                  F. de elab. : 19/01/2021        Moneda:     Pesos
+        Cliente:    JC012                                                             F. de venc. : 19/01/2021        Tipo de cambio:             1.000000
+        Nombre:     LEONARDO JIMENEZ POLANCO                                          Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          320.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+          Observaciones:    8 SACOS
+                                                                                                Total:                        2,867.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            26
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31443                  F. de elab. : 19/01/2021        Moneda:     Pesos
+        Cliente:    PP123                                                             F. de venc. : 19/01/2021        Tipo de cambio:             1.000000
+        Nombre:     SHARON PEREZ EK                                                   Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          320.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    8 SACOS
+                                                                                                Total:                        2,780.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            27
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31444                  F. de elab. : 19/01/2021        Moneda:     Pesos
+        Cliente:    SP072                                                             F. de venc. : 19/01/2021        Tipo de cambio:             1.000000
+        Nombre:     NAYELI SANTAMARIA                                                 Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          680.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    17 SACOS
+                                                                                                Total:                        5,909.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            28
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31461                  F. de elab. : 20/01/2021        Moneda:     Pesos
+        Cliente:    SP072                                                             F. de venc. : 20/01/2021        Tipo de cambio:             1.000000
+        Nombre:     NAYELI SANTAMARIA                                                 Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          400.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.550000      $
+          Observaciones:    10 SACOS
+                                                                                                Total:                        3,420.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            29
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31464                  F. de elab. : 20/01/2021        Moneda:     Pesos
+        Cliente:    DC038                                                             F. de venc. : 20/01/2021        Tipo de cambio:             1.000000
+        Nombre:     EVERTH DZIB CHAN                                                  Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          600.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    15 SACOS L-6869-21
+                                                                                                Total:                        5,214.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            30
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31472                  F. de elab. : 20/01/2021        Moneda:     Pesos
+        Cliente:    SP072                                                             F. de venc. : 20/01/2021        Tipo de cambio:             1.000000
+        Nombre:     NAYELI SANTAMARIA                                                 Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          400.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    10 SACOS L-6869-21
+                                                                                                Total:                        3,476.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            31
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31475                  F. de elab. : 21/01/2021        Moneda:     Pesos
+        Cliente:    PP066                                                             F. de venc. : 21/01/2021        Tipo de cambio:             1.000000
+        Nombre:     BENJAMIN PEREZ                                                    Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          1,280.00  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.810000      $
+          Observaciones:    32 SACOS
+                                                                                                Total:                      11,276.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            32
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31496                  F. de elab. : 22/01/2021        Moneda:     Pesos
+        Cliente:    MC083                                                             F. de venc. : 22/01/2021        Tipo de cambio:             1.000000
+        Nombre:     REINALDO ERIBERTO MARTIN CAUICH                                   Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          600.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.550000      $
+          Observaciones:    15 SACOS
+                                                                                                Total:                        5,130.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            33
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31503                  F. de elab. : 22/01/2021        Moneda:     Pesos
+        Cliente:    CC144                                                             F. de venc. : 22/01/2021        Tipo de cambio:             1.000000
+        Nombre:     FRANCISCO CABALLERO                                               Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          1,840.00  MYN1      206CAB10                      0.00      0.00      0.00        0.00                                    0.00    9.600000      $
+          Observaciones:    46 SACOS L-6892-21
+                                                                                                Total:                      17,664.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            34
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31505                  F. de elab. : 23/01/2021        Moneda:     Pesos
+        Cliente:    JC012                                                             F. de venc. : 23/01/2021        Tipo de cambio:             1.000000
+        Nombre:     LEONARDO JIMENEZ POLANCO                                          Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          200.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+          Observaciones:    5 SACOS
+                                                                                                Total:                        1,792.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            35
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31507                  F. de elab. : 23/01/2021        Moneda:     Pesos
+        Cliente:    NC031                                                             F. de venc. : 23/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MARIO NOH                                                         Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          120.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.810000      $
+          Observaciones:    3 SACOS
+                                                                                                Total:                        1,057.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            36
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31511                  F. de elab. : 23/01/2021        Moneda:     Pesos
+        Cliente:    CC188                                                             F. de venc. : 23/01/2021        Tipo de cambio:             1.000000
+        Nombre:     BARBARA CORTEZ DE CRUZ                                            Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          1,000.00  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    25 SACOS
+                                                                                                Total:                        8,690.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            37
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31522                  F. de elab. : 25/01/2021        Moneda:     Pesos
+        Cliente:    MC031                                                             F. de venc. : 25/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MANUEL MEDRANO                                                    Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+            40.0000 MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    8.390000      $
+          Observaciones:    1 SACO
+          560.0000  MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    8.390000      $
+
+          Observaciones:    14 SACOS
+                                                                                                Total:                        5,034.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            38
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31540                  F. de elab. : 25/01/2021        Moneda:     Pesos
+        Cliente:    SP104                                                             F. de venc. : 25/01/2021        Tipo de cambio:             1.000000
+        Nombre:     PEDRO ALFONSO CHIM SANSORES                                       Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          200.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    9.000000      $
+          Observaciones:    5 SACOS L-7008-21
+                                                                                                Total:                        1,800.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            39
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31542                  F. de elab. : 25/01/2021        Moneda:     Pesos
+        Cliente:    PP123                                                             F. de venc. : 25/01/2021        Tipo de cambio:             1.000000
+        Nombre:     SHARON PEREZ EK                                                   Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          320.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    8 SACOS
+                                                                                                Total:                        2,780.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            40
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31545                  F. de elab. : 25/01/2021        Moneda:     Pesos
+        Cliente:    SP072                                                             F. de venc. : 25/01/2021        Tipo de cambio:             1.000000
+        Nombre:     NAYELI SANTAMARIA                                                 Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          400.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    10 SACOS L-7000-21
+                                                                                                Total:                        3,476.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            41
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31551                  F. de elab. : 25/01/2021        Moneda:     Pesos
+        Cliente:    RP103                                                             F. de venc. : 25/01/2021        Tipo de cambio:             1.000000
+        Nombre:     ROMMEL SANTIAGO GOMEZ GARMA                                       Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          720.0000  MYN1      206PROP                       0.00      0.00      0.00        0.00                                    0.00    9.720000      $
+          Observaciones:    18 SACOS
+                                                                                                Total:                        6,998.40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            42
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31571                  F. de elab. : 27/01/2021        Moneda:     Pesos
+        Cliente:    DC038                                                             F. de venc. : 27/01/2021        Tipo de cambio:             1.000000
+        Nombre:     EVERTH DZIB CHAN                                                  Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          1,200.00  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    30 SACOS
+                                                                                                Total:                      10,428.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            43
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31573                  F. de elab. : 27/01/2021        Moneda:     Pesos
+        Cliente:    VC032                                                             F. de venc. : 27/01/2021        Tipo de cambio:             1.000000
+        Nombre:     SILVIA VALENCIA                                                   Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          1,080.00  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+          Observaciones:    27 SACOS L-7000-21
+          2,920.00  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    73 SACOS L-7102-21
+                                                                                                Total:                      35,840.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            44
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31574                  F. de elab. : 27/01/2021        Moneda:     Pesos
+        Cliente:    IC034                                                             F. de venc. : 27/01/2021        Tipo de cambio:             1.000000
+        Nombre:     CASILDO ITZA                                                      Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.550000      $
+          Observaciones:    2 SACOS
+                                                                                                Total:                          684.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            45
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31589                  F. de elab. : 28/01/2021        Moneda:     Pesos
+        Cliente:    NC031                                                             F. de venc. : 28/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MARIO NOH                                                         Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          120.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.810000      $
+          Observaciones:    3 SACOS
+                                                                                                Total:                        1,057.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            46
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31611                  F. de elab. : 30/01/2021        Moneda:     Pesos
+        Cliente:    MC031                                                             F. de venc. : 30/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MANUEL MEDRANO                                                    Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+            40.0000 MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    8.390000      $
+          Observaciones:    1 SACO L-7071-21
+          440.0000  MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    8.390000      $
+
+          Observaciones:    11 SACOS L-7179-21
+                                                                                                Total:                        4,027.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            47
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31617                  F. de elab. : 30/01/2021        Moneda:     Pesos
+        Cliente:    JC012                                                             F. de venc. : 30/01/2021        Tipo de cambio:             1.000000
+        Nombre:     LEONARDO JIMENEZ POLANCO                                          Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          200.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+          Observaciones:    5 SACOS L-7102-21
+          200.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    5 SACOS L-7165-21
+                                                                                                Total:                        3,584.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            48
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                          Detallado de pedidos
+
+
+
+        Documento:.   Pedido - Directo                         31619                  F. de elab. : 30/01/2021        Moneda:     Pesos
+        Cliente:    PP129                                                             F. de venc. : 30/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MARIANO AGUSTIN POOT KANTUN                                       Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          400.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.550000      $
+          Observaciones:    10 SACOS l-7008-21
+                                                                                                Total:                        3,420.00
+
+
+        Total de registros impresos:    49
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                |echa y hora:   09/02/2021  12:49                                         Pág.            49
+
+----------------------------------------------------------------------------------
+

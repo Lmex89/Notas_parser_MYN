@@ -1,0 +1,17 @@
+M Y N DISTRIBUIDORA, S.A. DE C.V.
+Detallado de notas de venta
+Vendedores: Todos
+Fecha inicial de elaboración: 01/01/2021 Fecha final de elaboración: 31/01/2021
+Moneda de expresión: Pesos
+Tipo de cambio: 1.000000
+Documento: Nota de venta - NV00003887 F. de elab. : 05/01/2021 Moneda: Pesos
+Cliente: CC188 F. de venc. : 05/01/2021 Tipo de cambio: 1.000000
+Nombre: BARBARA CORTEZ DE CRUZ Vendedor: 41
+Su pedido: Comisión: 0.00
+Observaciones: P-31194
+Cantidad Línea Producto Desc1 Desc2 Desc3 Impuesto Comis. Precio
+800.0000 MYN1 206PELCR15 0.00 0.00 0.00 0.00 0.00 8.690000 $
+Observaciones: 20 SACOS L-6587-20
+6587-20
+Total: 6,952.00
+Usuario: Alicia Braga Fecha y hora: 09/02/2021 12:46 Pág. 1
